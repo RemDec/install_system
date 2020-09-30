@@ -1,0 +1,4 @@
+$HOME/Programs
+$HOME/Documents/{Drafts,Trash,Backups,Diverse,Administrative,Repositories}
+$HOME/Images/{Montages,Wallpapers,Stickers,Photos,Screenshots}
+$HOME/Music/Deezer
